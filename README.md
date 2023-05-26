@@ -1,4 +1,4 @@
-# Holistic Data Science Project -part 2-
+# Holistic Data Science Project -part 2- version2.1
 ## Goal
 Creating a project that tackles real-world issues in line with the UN's sustainability goals
 ## Objective
